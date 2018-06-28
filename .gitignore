@@ -21,6 +21,9 @@
 # XCode user-specific stuff.
 xcuserdata/
 
+# Visual Studio Code user settings
+.vscode
+
 # Allow Visual Studio project files.
 !wren/
 !wren_lib/
